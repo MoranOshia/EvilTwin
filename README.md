@@ -18,4 +18,8 @@ This project is a python program of an attack and defence tool.
   ```sudo sh Requierments.sh```
 
 
+##### How to run the code:
+* Execute the command
+
+  ```sudo python3 start.py```
 
