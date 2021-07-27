@@ -15,7 +15,7 @@ This project is a python program of an attack and defence tool.
 * Ubuntu Linux (Attacker) In Our enviroment we use Ubuntu 20.04.1 LTS.
 * Run this command:
 
-```sudo sh Requierments.sh```
+  ```sudo sh Requierments.sh```
 
 
 
