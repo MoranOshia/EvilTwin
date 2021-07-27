@@ -1,5 +1,8 @@
 
 # Evil Twin Attack and Defence
+
+Amit Bibi and Moran Oshia 
+
 ## Introduction:
 This project is a python program of an attack and defence tool.
 
