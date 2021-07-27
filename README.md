@@ -1,5 +1,5 @@
-# EvilTwin
-# Evil Twin Attack/Defence
+
+# Evil Twin Attack and Defence
 ## Introduction:
 This project is a python program of an attack and defence tool.
 
